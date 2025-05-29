@@ -6,5 +6,5 @@ I'm a Master's student in Data Science at TU Wien and a Full-Stack Developer.
 - **Demonstrator Applications for the EDDIE Framework**  
   *Developing and deploying demonstrator applications using a tech stack of Python, Django, PostgreSQL, and Apache Kafka* <br> [EDDIE](https://github.com/eddie-energy)
 
-- **Energy Data Predictions with Machine Learning**  
+- **Machine Learning Models for Energy Data Predictions**  
   *Designing and refining sophisticated ML models to predict energy consumption patterns, optimizing resource management and efficiency.*
